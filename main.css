@@ -1,0 +1,26 @@
+body {
+  border: solid;
+  height: 500px;
+  width: 325px; }
+  body .container {
+    padding-left: 50px;
+    background-color: HSLA(0, 0%, 74%, 1);
+    padding-bottom: 102px; }
+  body img {
+    margin-left: 42px;
+    margin-top: 41;
+    border: dotted; }
+
+h3 {
+  margin-left: 20px; }
+
+.inputs {
+  margin-left: 46px; }
+
+.input2 {
+  margin-left: 25px; }
+
+.answer {
+  margin-left: 65px; }
+
+/*# sourceMappingURL=main.css.map */
